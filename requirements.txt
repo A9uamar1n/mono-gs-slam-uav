@@ -1,0 +1,11 @@
+# torch 2.4.1 ставится отдельно с индексом cu124, gsplat 1.4.0 собирается из исходников (см. README)
+numpy<2
+opencv-python
+scipy
+matplotlib
+pyyaml
+pandas
+tqdm
+pillow
+transformers
+evo
